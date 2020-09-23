@@ -1,0 +1,7 @@
+ctlIRC = 88, 88, 718, 588, C, 44, 44, 674, 544, C
+clnChannels = 66, 66, 698, 566, 
+clsChannels = 88, 88, 720, 588, 
+clnChannelNicks = 110, 110, 742, 610, 
+clsChannelNicks = 132, 132, 764, 632, 
+clnChannelBans = 154, 154, 786, 654, 
+clsChannelBans = 176, 176, 808, 676, Z
